@@ -1,0 +1,89 @@
+html{
+font-size: 95%
+
+}
+
+h1 {
+
+    text-align: center;
+    color:rgb(17, 76, 97)
+    
+}
+
+h1{
+    background-color: rgb(122, 220, 222);
+    background-blend-mode: hue;
+    font-size: 3rem;
+    font-family: "Mukta", sans-serif;
+}
+
+h2{
+text-align: center;
+color:rgb(9, 9, 131)
+
+}
+
+h2{
+    background-color: rgb(126, 174, 207);
+    font-size: 2rem;
+    font-family: "Mukta", sans-serif;
+}
+
+h3{
+    text-align: center;
+    color:rgb(9, 9, 131)
+    
+    
+}
+
+h3{
+    font-size: 2rem;
+    background-color: rgb(123, 148, 198);
+    font-family: "Mukta", sans-serif;
+}
+h4{
+    background-color: rgb(152, 160, 207);
+font-size: 2rem;
+font-family: "Mukta", sans-serif;
+}
+
+h4{
+    color: rgb(9, 9, 131);
+    text-align: center;
+}
+
+h4{
+    padding-left: 2rem;
+    font-family: "Mukta", sans-serif;
+}
+
+.centered{
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+.centered{
+    text-align: center;
+}
+
+#caja{
+    background: #6364b9;
+    background: linear-gradient(90deg,#6364b9 0%, #40c2c5 80%);
+    background: -webkit-linear-gradient(90deg,#6364b9 0%, #40c2c5 80%);
+    background: -moz-linear-gradient(90deg,#6364b9 0%, #40c2c5 80%);
+}
+
+#caja{
+    box-shadow: 0 0 1rem #6364b9;
+    border-radius: 1rem;
+    font-family: "Mukta", sans-serif;
+}
+
+#columna{
+    column-count: 3;
+    column-gap: 50px;
+}
+
+
+  
